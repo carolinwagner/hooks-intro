@@ -1,0 +1,9 @@
+.box {
+  background: hotpink;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
